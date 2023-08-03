@@ -17,20 +17,12 @@ b{
     font-size:xx-large;
     font-family: 'Gill Sans';
 }
-.first{
-    text-align: center; 
-    letter-spacing: 10px;
-    color:rgb(6, 0, 0);
-   
-   }
-.firstimage{
-    text-align: center ;
-    margin-top: 30px;
-    padding :block end 30px;
-    border-radius: round;
-    opacity: 0.75;
-    
-}
+
+
 img{
     padding: 30px;
+    margin-top: 200px;
+    padding :block end 30px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0.75;
 }
